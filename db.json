@@ -1,24 +1,9 @@
 {
 	"users": {
-		"query": [{
-				"EmployeeFunctional": "730369",
-				"Name": "Fábio Tinelo",
-				"Email": "fabio.tinelo@iteris.com.br",
-				"Active": true,
-				"DateTimeMaintenance": "2020-01-01 14:11:00",
-				"EmployeeFunctionalMaintenance": "707070"
-			},
-			{
-				"EmployeeFunctional": "717171",
-				"Name": "João da Silva",
-				"Email": "joao.silva@rede.com.br",
-				"Active": true,
-				"DateTimeMaintenance": "2020-04-01 12:11:00",
-				"EmployeeFunctionalMaintenance": "707070"
-			}
-		]
-	},
-	"profile": {
-		"name": "typicode"
+		"group-members":
+		                 {
+			            "GS_UK_APROVADORES": ["707070", "717171"]
+				 }
 	}
+		
 }
