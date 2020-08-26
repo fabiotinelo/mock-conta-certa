@@ -3,8 +3,10 @@
 		"group-members":
 		                 {
 			            "GS_UK_APROVADORES": 
-					 
-					 {["707070", "717171"]}
+					 [
+						 {"funcional":"123"},
+						 {"funcional":"124"}
+					]
 				 }
 	}
 		
