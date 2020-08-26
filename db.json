@@ -2,7 +2,9 @@
 	"users": {
 		"group-members":
 		                 {
-			            "GS_UK_APROVADORES": ["707070", "717171"]
+			            "GS_UK_APROVADORES": 
+					 
+					 {"707070", "717171"]}
 				 }
 	}
 		
